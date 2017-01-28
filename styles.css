@@ -1,5 +1,5 @@
 body {
-    width: 270px;
+    width: 300px;
     font-family: 'San Francisco', -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
     margin:0px;
 }
@@ -462,7 +462,7 @@ body > .actions {
     white-space: nowrap;
 }
 .tabs-container header .tab-header{
-    width: 135px;
+    width: 150px;
     display: inline-block;
     background-color: #ecf0f1;
     margin-right: -2px;
@@ -484,7 +484,7 @@ body > .actions {
     padding: 10px;
     padding-top: 20px;
     box-sizing: border-box;
-    width: 252.7px;
+    width: 282.7px;
     height: 87px;
     border-radius: 5px;
     background-color: #4990e2;
